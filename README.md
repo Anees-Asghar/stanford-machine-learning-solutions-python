@@ -6,11 +6,11 @@ This repository contains all the solutions to the programming exercises of the S
 ## Setup and Usage
 
 - Clone this repo to your desktop.
-- Create a new anaconda environment will all the requirements using the following command:
+- Create a new anaconda environment with all the requirements using the following command:
 
       conda env create -f environment.yml
       
-- After the new environment is setup, activate it using (windows)
+- After the new environment is set up, activate it using (windows)
 
       activate machine_learning
    
